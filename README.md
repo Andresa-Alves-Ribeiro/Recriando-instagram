@@ -64,8 +64,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 &nbsp;
 
 <p align="center">
-  <a href= "https://html.com/"><img alt="HTML badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=FFC0CB&logo=HTML&label=Style&message=HTML5&color=FFC0CB"></a>
-  <a href= "https://axios-http.com/"><img alt="Axios badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7DF1E&logo=css3&label=Language&message=CSS&color=F7DF1E"></a>
+  <a href= "https://html.com/"><img alt="HTML badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=FFC0CB&logo=HTML5&label=Style&message=HTML&color=FFC0CB"></a>
+  <a href= "https://www.w3.org/Style/CSS/Overview.en.html/"><img alt="CSS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7DF1E&logo=css3&label=Language&message=CSS&color=F7DF1E"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
 </p>
 
