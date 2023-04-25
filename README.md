@@ -1,5 +1,8 @@
 # Recriando Instagram
 
+![web](https://user-images.githubusercontent.com/94997593/234426187-778a36e3-5d86-4684-b63a-d21e59235cdc.png)
+
+
 ![Captura de tela 2022-07-03 180604](https://user-images.githubusercontent.com/94997593/177057270-e91edfff-c449-4577-a8c3-59d29ab01064.gif)
 
 
